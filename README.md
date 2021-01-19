@@ -1,1 +1,1 @@
-# slide_analyzer
+Slide Analyzer: This application can be used to quickly determine the area of regions of interest on a slide by selecting a portion of the image using the lasso tool, setting a selection tolerance, and clicking on the color to be used.
